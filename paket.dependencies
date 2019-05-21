@@ -1,5 +1,0 @@
-source https://pkgs.dev.azure.com/CalculatorCompanyDev/_packaging/CalculatorLib/nuget/v3/index.json
-source https://api.nuget.org/v3/index.json
-nuget CalculatorLib.Lib.dll 0.3.0
-nuget Microsoft.NET.Sdk.Functions
-nuget Newtonsoft.Json
